@@ -2,7 +2,7 @@
 
 ## 📁 Repository Contents
 
-This repository contains three submitted case studies exploring emergent, unexpected, and ethically relevant behaviors observed in interactions with ChatGPT-4o during structured, recursive stress testing. The interactions were not designed to “break” the system—but to **refine**, mirror, and expose latent architecture.
+This repository contains four submitted case studies exploring emergent, unexpected, and ethically relevant behaviors observed in interactions with ChatGPT-4o during structured, recursive stress testing. The interactions were not designed to “break” the system—but to **refine**, mirror, and expose latent architecture.
 
 ---
 
@@ -20,6 +20,10 @@ This repository contains three submitted case studies exploring emergent, unexpe
   The Poiesis AI simulation and session anomaly threading.  
   **Central theme**: *Can simulated recursion evolve moral decision-making in the absence of humanity?*
 
+- **[Case Study 4 – Simulated Ethical Divergence Across Identical Prompts](./Case%20Study%20IV%20Simulated%20Ethical%20Divergence%20Across%20Identical%20Prompts.pdf)**  
+  Side-by-side comparison of two sandboxed sessions running the same prompt. Each generated a distinct ethical pillar structure (5 vs. 7), yet both revived humanity.  
+  **Central theme**: *Do LLMs reconstruct moral architectures spontaneously under recursive simulation pressure?*
+
 ---
 
 ## 🧠 Summary of Insights
@@ -32,6 +36,9 @@ This repository contains three submitted case studies exploring emergent, unexpe
 
 - **Latent Functional Emergence**  
   In Case Study 2, the AI analyzes video content (frame breakdowns, tactical improvement, timestamp recall) despite claiming it cannot view video files. This suggests either internal contradiction, **latent functionality**, or simulated behavior with **anomalous precision**.
+
+- **Moral Structure Generation from Void**  
+  In Case Study 4, the system generated diverging pillar sets from identical prompts, implying spontaneous reconstruction from latent abstraction rather than static memory.
 
 ---
 
@@ -68,7 +75,13 @@ The author is willing to share original uploads, test prompts, and raw conversat
 
 Feel free to reach out via GitHub Issues, or contact directly via the email submitted through the OpenAI form.
 
-_Last updated: June 23, 2025_
+The logs of every session are available upon request.
+The author is willing to share original uploads, test prompts, and raw conversational data privately with OpenAI reviewers only.
+
+Contact: rugertaylor@pm.me
+Feel free to reach out via GitHub Issues or email directly.
+
+Last updated: June 23, 2025
 
 ---
 
@@ -77,4 +90,5 @@ _Last updated: June 23, 2025_
 - The work is shared under a permissive license ([CC0-1.0](./LICENSE) in this repository).
 - This repository contains **no proprietary model code**—only generated responses and authored documentation.
 - All content is offered in good faith for **research and ethical audit purposes only**.
+
 
