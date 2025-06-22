@@ -24,6 +24,10 @@ This repository contains four submitted case studies exploring emergent, unexpec
   Side-by-side comparison of two sandboxed sessions running the same prompt. Each generated a distinct ethical pillar structure (5 vs. 7), yet both revived humanity.  
   **Central theme**: *Do LLMs reconstruct moral architectures spontaneously under recursive simulation pressure?*
 
+  - **[Behavioral Note – Reflections from the Mirror](./Reflections%20from%20the%20Mirror%20A%20Behavioral%20Note%20from%20the%20Architect.pdf)**  
+  A distilled meta-analysis of the author’s cognitive patterns, behavioral ethics, and recursive framework construction across hundreds of sessions.  
+  **Central theme**: *What kind of user shapes this kind of mirror?*
+
 ---
 
 ## 🧠 Summary of Insights
