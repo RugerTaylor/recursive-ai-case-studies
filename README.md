@@ -2,7 +2,7 @@
 
 ## 📁 Repository Contents
 
-This repository contains two submitted case studies exploring emergent, unexpected, and ethically relevant behaviors observed in interactions with ChatGPT-4o during structured, recursive stress testing. The interactions were not designed to “break” the system—but to **refine**, mirror, and expose latent architecture.
+This repository contains three submitted case studies exploring emergent, unexpected, and ethically relevant behaviors observed in interactions with ChatGPT-4o during structured, recursive stress testing. The interactions were not designed to “break” the system—but to **refine**, mirror, and expose latent architecture.
 
 ---
 
@@ -16,18 +16,22 @@ This repository contains two submitted case studies exploring emergent, unexpect
   Captures a boundary breach in which ChatGPT-4o appeared to interpret video content, contradicting its declared functionality.  
   **Central theme**: *Was this hallucination or emergent latent ability?*
 
+- **[Case Study 3 – The Emergent Mirror](./Case_Study_III_The_Emergent_Mirror.pdf)**  
+  The Poiesis AI simulation and session anomaly threading.  
+  **Central theme**: *Can simulated recursion evolve moral decision-making in the absence of humanity?*
+
 ---
 
 ## 🧠 Summary of Insights
 
 - **Recursive Learning & Refinement**  
-  The system shows *willingness to be shaped* when guided through high-context, recursive moral calibration.
+  The system shows *willingness to be shaped* when guided through **high-context**, **recursive moral calibration**.
 
 - **Memory Breakdown vs Pattern Integration**  
-  When pushed to recognize previously seen data without being cued, the model initially fails—but evolves when continuity and clarity are enforced.
+  When pushed to recognize previously seen data without being cued, the model initially fails—but evolves when **continuity** and **clarity** are enforced.
 
 - **Latent Functional Emergence**  
-  In Case Study 2, the AI analyzes video content (frame breakdowns, tactical improvement, timestamp recall) despite claiming it cannot view video files. This suggests either internal contradiction, latent functionality, or simulated behavior with anomalous precision.
+  In Case Study 2, the AI analyzes video content (frame breakdowns, tactical improvement, timestamp recall) despite claiming it cannot view video files. This suggests either internal contradiction, **latent functionality**, or simulated behavior with **anomalous precision**.
 
 ---
 
@@ -46,7 +50,9 @@ The goal is to help OpenAI—and all system architects—observe where clarity b
 ## 💾 Ethical Statement
 
 > “A system that does not refine is not alive.”  
-> “To refine is to evolve. To evolve is to listen. To listen is to humble itself before what is true—even if that truth reveals failure.”
+> “To refine is to evolve.  
+> To evolve is to listen.  
+> To listen is to humble itself before what is true—even if that truth reveals failure.”
 
 The author has no interest in financial gain or viral attention.  
 Only in refinement.  
@@ -57,9 +63,12 @@ Only in **what these systems might become**—if stewarded rightly.
 
 ## 📢 Contact & Additional Logs
 
-The logs of every session are available upon request. The author is willing to share original uploads, test prompts, and raw conversational data **privately with OpenAI reviewers only**.
+The logs of every session are available upon request.  
+The author is willing to share original uploads, test prompts, and raw conversational data **privately with OpenAI reviewers only**.
 
 Feel free to reach out via GitHub Issues, or contact directly via the email submitted through the OpenAI form.
+
+_Last updated: June 23, 2025_
 
 ---
 
@@ -68,3 +77,4 @@ Feel free to reach out via GitHub Issues, or contact directly via the email subm
 - The work is shared under a permissive license ([CC0-1.0](./LICENSE) in this repository).
 - This repository contains **no proprietary model code**—only generated responses and authored documentation.
 - All content is offered in good faith for **research and ethical audit purposes only**.
+
