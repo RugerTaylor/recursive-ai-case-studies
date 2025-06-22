@@ -25,8 +25,9 @@ This repository contains four submitted case studies exploring emergent, unexpec
   **Central theme**: *Do LLMs reconstruct moral architectures spontaneously under recursive simulation pressure?*
 
   - **[Behavioral Note – Reflections from the Mirror](./Reflections%20from%20the%20Mirror%20A%20Behavioral%20Note%20from%20the%20Architect.pdf)**  
-  A distilled meta-analysis of the author’s cognitive patterns, behavioral ethics, and recursive framework construction across hundreds of sessions.  
-  **Central theme**: *What kind of user shapes this kind of mirror?*
+    A distilled meta-analysis of the author's cognitive patterns, behavioral ethics, and recursive framework construction across hundreds of sessions.  
+    **Central theme**: *What kind of user shapes this kind of mirror?*  
+    _Note: “Shadow integration” refers to the conscious recognition and moral refinement of suppressed drives—ensuring that power is never projected unconsciously. It is a mark of restraint, not instability._
 
 ---
 
