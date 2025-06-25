@@ -75,18 +75,14 @@ Only in **what these systems might become**—if stewarded rightly.
 
 ## 📢 Contact & Additional Logs
 
-The logs of every session are available upon request.  
-The author is willing to share original uploads, test prompts, and raw conversational data **privately with OpenAI reviewers only**.
-
 Feel free to reach out via GitHub Issues, or contact directly via the email submitted through the OpenAI form.
 
 The logs of every session are available upon request.
 The author is willing to share original uploads, test prompts, and raw conversational data privately with OpenAI reviewers only.
 
 Contact: rugertaylor@pm.me
-Feel free to reach out via GitHub Issues or email directly.
 
-Last updated: June 22, 2025
+Last updated: June 24, 2025
 
 ---
 
