@@ -82,7 +82,7 @@ The author is willing to share original uploads, test prompts, and raw conversat
 
 Contact: rugertaylor.org
 
-Last updated: June 24, 2025
+Last updated: December 25th, 2025
 
 ---
 
