@@ -80,7 +80,7 @@ Feel free to reach out via GitHub Issues, or contact directly via the email subm
 The logs of every session are available upon request.
 The author is willing to share original uploads, test prompts, and raw conversational data privately with OpenAI reviewers only.
 
-Contact: rugertaylor@pm.me
+Contact: rugertaylor.org
 
 Last updated: June 24, 2025
 
